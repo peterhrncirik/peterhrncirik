@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning mainly Python & Django, JavaScript, HTML/CSS.
 - 💞️ I’m looking to collaborate on various interesting projects.
 - 📫 You can contact me at peto.hrncirik@gmail.com
-- Currently working on my personal blog page (Django) - still far from functional both design and functionality-wise - https://peterhrncirik.pythonanywhere.com
+- Currently working on my personal blog page (Django) - https://peterhrncirik.pythonanywhere.com
 <!---
 peterhrncirik/peterhrncirik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
